@@ -46,6 +46,7 @@ button {
 }
 
 .header-area .navbar-middle .logo {
+  margin: 0 auto;
   color: #fff;
   font-size: 2rem;
 }
