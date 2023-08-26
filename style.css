@@ -17,7 +17,7 @@ button {
 }
 
 .header-area {
-  background: rgba(10, 35, 83, 0.75);
+  background: rgba(24, 24, 19, 0.7);
   position: fixed;
   z-index: 10;
   width: 100%;
@@ -46,7 +46,6 @@ button {
 }
 
 .header-area .navbar-middle .logo {
-  margin: 0 auto;
   color: #fff;
   font-size: 2rem;
 }
@@ -420,3 +419,4 @@ button {
   border-radius: 4px;
   margin-top: 1rem;
 }
+/*# sourceMappingURL=style.css.map */
